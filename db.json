@@ -1,0 +1,32 @@
+{
+  "users": [],
+  "user_likes": [],
+  "user_bookmarks": [],
+  "bookmarks": [],
+  "categories": [
+    {
+      "name": "Vue.js",
+      "id": 1
+    },
+    {
+      "name": "React.js",
+      "id": 2
+    },
+    {
+      "name": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "Backend",
+      "id": 4
+    },
+    {
+      "name": "Cloud",
+      "id": 5
+    },
+    {
+      "name": "Sosyal Yaşam",
+      "id": 6
+    }
+  ]
+}
